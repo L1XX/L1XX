@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey! I'm Dmitry 👋
 
-<!--
-**L1XX/L1XX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm studying cybersecurity, reverse engineering and building useful tools.
 
-Here are some ideas to get you started:
+- 🔐 Junior cybersecurity specialist  
+- 🧩 Learning reverse engineering (IDA, dbg tools)  
+- 🛠 I build automation tools in Python  
+- 🚀 Learning English and preparing for freelancing  
+- 🎯 Goal: create real projects that generate income
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧵 Tech Stack
+- Python (scripts, automation)
+- Bash, Linux (Arch, Hyprland)
+- SQL (DBeaver, PostgreSQL)
+- Docker, K8s (basics)
+- Git, GitHub
+
+### 📈 Current Projects
+- 🔍 Security scripts & scanning tools  
+- 📦 Small SaaS microprojects  
+- 🧰 Automation utilities
+
+Feel free to follow or check my repos!
